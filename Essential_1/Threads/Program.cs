@@ -1,12 +1,16 @@
 ﻿using System;
 
-namespace WindowGUI
+namespace Threads
 {
+    class Printer
+    {
+        public void PrintNumber() { Console.WriteLine($"")}
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
