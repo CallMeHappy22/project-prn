@@ -3,39 +3,47 @@
 namespace Using_Delegate_and_event
 {
     class Car
+
     {
-        public string Brand { get; set; }   
+
+        public event Action<string> HightSpeed;
+
+        public string Brand { get; set; }
+
         public int CurrentSpeed { get; set; }
+
         public int MaxSpeed { get; set; }
-        public Action<string> HightSpeed { get; internal set; }
 
-        public Car()
-        {
-        }
-
-        public Car(string brand, int curentSpeed, int maxSpeed)
-        {
-          Brand = brand;
-            CurrentSpeed = curentSpeed;
-           MaxSpeed = maxSpeed;
-        }
         public void Accelerate(int delta)
+
         {
-            if(this.CurrentSpeed < MaxSpeed)
+
+            if (CurrentSpeed <= MaxSpeed - delta)
+
             {
-                Console.WriteLine("Current speed = " + CurrentSpeed + delta);
+
+                CurrentSpeed += delta;
+
+                HightSpeed($"Current speed = {CurrentSpeed}");
+
             }
+
             else
+
             {
-                Console.WriteLine("Can't speed up");
+
+                HightSpeed($"Can't speed up!");
+
             }
-         
+
         }
 
     }
-    internal class Program
+
+    class Program
+
     {
-        
+
         static void Main(string[] args)
 
         {
@@ -56,6 +64,13 @@ namespace Using_Delegate_and_event
 
         private static void Car_HightSpeed(string arg)
 
-                       => Console.WriteLine(arg);
+        {
+
+            Console.WriteLine(arg);
+
+        }
+
     }
+
 }
+

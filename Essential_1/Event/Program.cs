@@ -14,7 +14,7 @@ namespace Event
                 {
                     NamChange(Name);
                 }
-                        } 
+           } 
         }
     }
     delegate void UpdateNameHandle(string name);

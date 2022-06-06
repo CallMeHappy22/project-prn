@@ -1,0 +1,9 @@
+1	SE1620	Nguyễn Hoàng Long	3.5
+2	SE1620	Vũ Duy Thái	8.0
+3	SE1620	Phan Trung Kiên	7.0
+1	SE1608	Nguyễn Bảo Long	10.0
+2	SE1608	Phan Văn Hùng	0.0
+1	SE1616	Vũ Văn Hải	5.0
+2	SE1616	Nguyễn Việt Hùng	10.0
+3	SE1616	Vũ Đại Lương	10.0
+4	SE1616	Nguyễn Kiêm Thông	10.0
