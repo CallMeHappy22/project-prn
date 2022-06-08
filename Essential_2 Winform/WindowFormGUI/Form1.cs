@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinFormsGUI
+namespace WindowFormGUI
 {
     public partial class Form1 : Form
     {
@@ -17,9 +17,5 @@ namespace WinFormsGUI
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }

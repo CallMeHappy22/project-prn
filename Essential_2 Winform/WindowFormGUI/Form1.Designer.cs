@@ -1,4 +1,4 @@
-﻿namespace WinForms0
+﻿namespace WindowFormGUI
 {
     partial class Form1
     {
