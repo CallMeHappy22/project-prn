@@ -1,4 +1,4 @@
-﻿namespace WindowFormGUI
+﻿namespace WondowFormGUIContinue
 {
     partial class Form1
     {

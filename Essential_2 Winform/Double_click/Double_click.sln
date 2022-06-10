@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double_click", "Double_click.csproj", "{9EC92EBC-1944-4257-B9B1-3281481DA0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC92EBC-1944-4257-B9B1-3281481DA0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC92EBC-1944-4257-B9B1-3281481DA0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC92EBC-1944-4257-B9B1-3281481DA0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC92EBC-1944-4257-B9B1-3281481DA0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E26B30-703A-4342-A757-1D5A957246B4}
+	EndGlobalSection
+EndGlobal
