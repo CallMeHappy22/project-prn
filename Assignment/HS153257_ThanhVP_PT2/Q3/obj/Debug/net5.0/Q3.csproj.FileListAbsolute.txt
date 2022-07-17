@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\bin\Debug\net5.0\Q3.exe
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\bin\Debug\net5.0\Q3.deps.json
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\bin\Debug\net5.0\Q3.runtimeconfig.json
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\bin\Debug\net5.0\Q3.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\bin\Debug\net5.0\Q3.dll
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\bin\Debug\net5.0\Q3.pdb
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.AssemblyInfo.cs
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.dll
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\refint\Q3.dll
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.pdb
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\Q3.genruntimeconfig.cache
+C:\Users\thanh\Desktop\HS153257_ThanhVP_PT2\Q3\obj\Debug\net5.0\ref\Q3.dll

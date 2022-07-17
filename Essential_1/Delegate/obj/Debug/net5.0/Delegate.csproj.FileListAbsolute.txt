@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\bin\Debug\net5.0\Delegate.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\bin\Debug\net5.0\Delegate.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\bin\Debug\net5.0\Delegate.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\bin\Debug\net5.0\Delegate.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\refint\Delegate.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Delegate\obj\Debug\net5.0\ref\Delegate.dll

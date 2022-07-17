@@ -1,0 +1,15 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\bin\Debug\net6.0\Anonymous_example.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\bin\Debug\net6.0\Anonymous_example.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\bin\Debug\net6.0\Anonymous_example.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\bin\Debug\net6.0\Anonymous_example.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\bin\Debug\net6.0\Anonymous_example.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\refint\Anonymous_example.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\Anonymous_example.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Anonymous_example\obj\Debug\net6.0\ref\Anonymous_example.dll

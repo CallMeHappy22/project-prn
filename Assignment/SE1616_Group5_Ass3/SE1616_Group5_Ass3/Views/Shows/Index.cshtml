@@ -1,0 +1,82 @@
+﻿@model SE1616_Group5_Ass3.Models.Show
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<form asp-action="Index">
+    <div class="col-md-3">
+    <div class="form-group">
+    <label asp-for="RoomId"></label>
+    <select asp-for="RoomId" asp-items="ViewBag.RoomId" class="form-control"></select>
+    </div>
+    <div class="form-group">
+    <label asp-for="ShowDate" ></label>
+    <input type="date" asp-for="ShowDate" class="form-control" />
+    </div>
+    <div class="form-group">
+    <label asp-for="FilmId" ></label>
+    <select asp-for="FilmId" asp-items="ViewBag.FilmId" class="form-control"></select>
+    </div>
+    <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
+<br />
+
+    <a asp-action="Create" >Create New</a>
+   
+@{
+    int count = (ViewBag.shows as List<Show>).Count;
+}
+
+<p>The number of show : @count</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ShowDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Slot)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Film)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Room)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (Show item in ViewBag.Shows) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShowDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Slot)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Film.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Room.Name)
+            </td>
+            <td>
+                <a asp-controller="Bookings" asp-action="Index" asp-route-id="@item.ShowId">Bookings</a> | 
+                <a asp-action="Edit" asp-route-id="@item.ShowId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ShowId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ShowId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

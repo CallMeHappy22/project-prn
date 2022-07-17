@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SE1608_AppDomain/1.0.0": {
+        "runtime": {
+          "SE1608_AppDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SE1608_AppDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,68 @@
+﻿@using Microsoft.AspNetCore.Http
+@model SE1616_Group5_Ass3.Models.Booking
+@inject IHttpContextAccessor HttpContextAccessor;
+
+@{
+    ViewData["Title"] = "Delete";
+    string seatstatus = @ViewBag.SeatStatus;
+    int id = (int)HttpContextAccessor.HttpContext.Session.GetInt32("id");
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Booking</h4>
+     @for (var i = 0; i < 10; i++)
+    {
+        @for (var j = 0; j < 10; j++)
+        {
+            int check = 0;
+            int index = i * 10 + j;
+            @for(int k = 0; k < seatstatus.Length; k++)
+            {
+                @if (seatstatus[k].ToString().Equals("1") && k == index)
+                {
+                    check = 1;
+                }
+            }
+            @if (check == 0)
+            {
+                <input type="checkbox" name="@index" disabled />
+            }
+            else
+
+            {
+                <input type="checkbox" name="@index" checked disabled/>
+            }
+        }
+        <br />
+    }
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Show)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ShowId)
+        </dd class>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="BookingId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index" aasp-route-id="@id">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\SE1608_AppDomain.exe
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\SE1608_AppDomain.deps.json
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\SE1608_AppDomain.runtimeconfig.json
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\SE1608_AppDomain.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\SE1608_AppDomain.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\ref\SE1608_AppDomain.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\bin\Debug\net5.0\SE1608_AppDomain.pdb
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.AssemblyInfo.cs
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\ref\SE1608_AppDomain.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.pdb
+C:\Users\HP\source\repos\SE1608_AppDomain\SE1608_AppDomain\obj\Debug\net5.0\SE1608_AppDomain.genruntimeconfig.cache

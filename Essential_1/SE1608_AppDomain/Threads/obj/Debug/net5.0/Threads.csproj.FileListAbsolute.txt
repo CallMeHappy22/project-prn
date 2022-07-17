@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.AssemblyInfo.cs
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\Threads.exe
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\Threads.deps.json
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\Threads.runtimeconfig.json
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\Threads.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\Threads.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\ref\Threads.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\bin\Debug\net5.0\Threads.pdb
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\ref\Threads.dll
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.pdb
+C:\Users\HP\source\repos\SE1608_AppDomain\Threads\obj\Debug\net5.0\Threads.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\SE1608_DesignPattern.exe
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\SE1608_DesignPattern.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\SE1608_DesignPattern.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\SE1608_DesignPattern.runtimeconfig.dev.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\SE1608_DesignPattern.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\ref\SE1608_DesignPattern.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\bin\Debug\net5.0\SE1608_DesignPattern.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\ref\SE1608_DesignPattern.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\SE1608_DesignPattern\obj\Debug\net5.0\SE1608_DesignPattern.genruntimeconfig.cache

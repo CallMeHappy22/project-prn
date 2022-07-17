@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\bin\Debug\net5.0\CS_STRUCTENUM.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\bin\Debug\net5.0\CS_STRUCTENUM.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\bin\Debug\net5.0\CS_STRUCTENUM.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\bin\Debug\net5.0\CS_STRUCTENUM.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\bin\Debug\net5.0\CS_STRUCTENUM.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\bin\Debug\net5.0\CS_STRUCTENUM.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\refint\CS_STRUCTENUM.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\CS_STRUCTENUM.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_STRUCTENUM\obj\Debug\net5.0\ref\CS_STRUCTENUM.dll

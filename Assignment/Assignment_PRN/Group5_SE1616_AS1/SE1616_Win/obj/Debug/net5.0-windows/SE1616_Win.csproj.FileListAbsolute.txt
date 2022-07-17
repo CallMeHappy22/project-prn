@@ -1,0 +1,218 @@
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.exe
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.dev.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\ref\SE1616_Win.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.GenerateResource.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\ref\SE1616_Win.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Properties.Resources.resources
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form2.resources
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.MainGUI.resources
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.LoginGUI.resources
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CopyComplete
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\appsettings.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.Memory.Data.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowGUI.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.exe
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.deps.json
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.json
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.dev.json
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.pdb
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.Memory.Data.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.AssemblyReference.cache
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form1.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form2.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.LoginGUI.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.MainGUI.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowGUI.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Properties.Resources.resources
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfoInputs.cache
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfo.cs
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CopyComplete
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\refint\SE1616_Win.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.pdb
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.genruntimeconfig.cache
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\ref\SE1616_Win.dll
+C:\Users\thanh\Downloads\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowAddEditGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.exe
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.deps.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.pdb
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.Memory.Data.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form1.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form2.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.LoginGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.MainGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowAddEditGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Properties.Resources.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CopyComplete
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\refint\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.pdb
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\SE1616_Win\SE1616_Win\obj\Debug\net5.0-windows\ref\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.exe
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.deps.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\SE1616_Win.pdb
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\System.Memory.Data.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form1.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Form2.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.LoginGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.MainGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowAddEditGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GUI.ShowGUI.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.Properties.Resources.resources
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.GenerateResource.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.csproj.CopyComplete
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\refint\SE1616_Win.dll
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.pdb
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\SE1616_Win.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Assignment\Assignment_PRN\Group5_SE1616_AS1\SE1616_Win\obj\Debug\net5.0-windows\ref\SE1616_Win.dll

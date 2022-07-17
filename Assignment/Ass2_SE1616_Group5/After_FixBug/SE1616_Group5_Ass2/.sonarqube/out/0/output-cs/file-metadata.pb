@@ -1,0 +1,27 @@
+Ç
+yC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\BookingDetailsGUI.csutf-8é
+ÇC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\BookingDetailsGUI.Designer.csutf-8{
+rC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\BookingGUI.csutf-8Ü
+{C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\BookingGUI.Designer.csutf-8Å
+xC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\CreateBookingGUI.csutf-8ç
+ÅC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\CreateBookingGUI.Designer.csutf-8y
+pC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\LoginGUI.csutf-8Ñ
+yC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\LoginGUI.Designer.csutf-8x
+oC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\MainGUI.csutf-8É
+xC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\MainGUI.Designer.csutf-8y
+pC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\Settings.csutf-8
+vC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\ShowAddEditGUI.csutf-8ä
+C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\ShowAddEditGUI.Designer.csutf-8x
+oC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\ShowGUI.csutf-8É
+xC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\GUI\ShowGUI.Designer.csutf-8{
+rC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\Booking.csutf-8Å
+xC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\CinemaContext.csutf-8{
+rC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\Country.csutf-8x
+oC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\Film.csutf-8y
+pC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\Genre.csutf-8x
+oC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\Room.csutf-8x
+oC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Models\Show.csutf-8t
+kC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Program.csutf-8ç
+ÅC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\Properties\Resources.Designer.csutf-8¥
+®C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\obj\Debug\net5.0-windows\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8®
+úC:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\After_FixBug\SE1616_Group5_Ass2\obj\Debug\net5.0-windows\SE1616_Group5_Ass2.AssemblyInfo.csutf-8

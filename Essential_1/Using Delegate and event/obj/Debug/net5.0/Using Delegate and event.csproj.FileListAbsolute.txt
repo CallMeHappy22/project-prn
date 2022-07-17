@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\bin\Debug\net5.0\Using Delegate and event.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\bin\Debug\net5.0\Using Delegate and event.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\bin\Debug\net5.0\Using Delegate and event.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\bin\Debug\net5.0\Using Delegate and event.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\bin\Debug\net5.0\Using Delegate and event.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\bin\Debug\net5.0\Using Delegate and event.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\refint\Using Delegate and event.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\Using Delegate and event.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\Using Delegate and event\obj\Debug\net5.0\ref\Using Delegate and event.dll

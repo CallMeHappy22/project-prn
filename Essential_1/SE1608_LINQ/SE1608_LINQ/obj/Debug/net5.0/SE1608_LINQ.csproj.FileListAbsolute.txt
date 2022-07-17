@@ -1,0 +1,16 @@
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\SE1608_LINQ.exe
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\SE1608_LINQ.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\SE1608_LINQ.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\SE1608_LINQ.runtimeconfig.dev.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\SE1608_LINQ.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\ref\SE1608_LINQ.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\bin\Debug\net5.0\SE1608_LINQ.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\ref\SE1608_LINQ.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_LINQ\SE1608_LINQ\obj\Debug\net5.0\SE1608_LINQ.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\bin\Debug\net5.0\math_example.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\bin\Debug\net5.0\math_example.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\bin\Debug\net5.0\math_example.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\bin\Debug\net5.0\math_example.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\bin\Debug\net5.0\math_example.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\bin\Debug\net5.0\math_example.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\refint\math_example.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\math_example.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\math_example\obj\Debug\net5.0\ref\math_example.dll

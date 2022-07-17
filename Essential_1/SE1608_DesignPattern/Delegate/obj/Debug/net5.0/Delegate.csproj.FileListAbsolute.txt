@@ -1,0 +1,16 @@
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\Delegate.exe
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\Delegate.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\Delegate.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\bin\Debug\net5.0\Delegate.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\SE1608_DesignPattern\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache

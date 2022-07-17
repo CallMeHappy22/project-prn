@@ -1,0 +1,16 @@
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\DemoCangtin.exe
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\DemoCangtin.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\DemoCangtin.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\DemoCangtin.runtimeconfig.dev.json
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\DemoCangtin.dll
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\ref\DemoCangtin.dll
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\bin\Debug\net5.0\DemoCangtin.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.dll
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\ref\DemoCangtin.dll
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\DemoCangtin\DemoCangtin\obj\Debug\net5.0\DemoCangtin.genruntimeconfig.cache

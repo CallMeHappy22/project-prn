@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Using Delegate and event/1.0.0": {
+        "runtime": {
+          "Using Delegate and event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Using Delegate and event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

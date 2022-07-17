@@ -1,0 +1,81 @@
+﻿@using Microsoft.AspNetCore.Http
+@model SE1616_Group5_Ass3.Models.Booking
+@inject IHttpContextAccessor HttpContextAccessor;
+@{
+    ViewData["Title"] = "Create";
+    String SeatStatus = "";
+    int Amount = (int)HttpContextAccessor.HttpContext.Session.GetInt32("Amount");
+    int id = (int)HttpContextAccessor.HttpContext.Session.GetInt32("id");
+}
+
+<h1>Create</h1>
+
+<h4>Booking</h4>
+<form id="form" asp-action="Create">
+@for (var i = 0; i < 10; i++)
+{
+    @for (var j = 0; j < 10; j++)
+    {
+        int check = 0;
+        int index = i * 10 + j;
+        @foreach (var item in ViewBag.list)
+        {
+            @if (item == index)
+            {
+                check = 1;
+            }
+        }
+        @if (check == 1)
+        {
+            <input type="checkbox" id="0" disabled checked />
+        }
+        else
+        {
+            <input type="checkbox" name="@index" onclick="submitForm()" />
+        }
+    }
+    <br />
+}
+</form>
+
+<script>
+    function submitForm(){
+        document.getElementById('form').submit();
+    }
+</script>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" asp-route-check="1">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ShowId" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SeatStatus" class="control-label"></label>
+                <input asp-for="SeatStatus" value="@SeatStatus" disabled class="form-control" />
+                <span asp-validation-for="SeatStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" value="@Amount" disabled class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-route-id="@id">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

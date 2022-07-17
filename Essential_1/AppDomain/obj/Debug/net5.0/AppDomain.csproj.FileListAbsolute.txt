@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\bin\Debug\net5.0\AppDomain.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\bin\Debug\net5.0\AppDomain.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\bin\Debug\net5.0\AppDomain.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\bin\Debug\net5.0\AppDomain.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\bin\Debug\net5.0\AppDomain.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\bin\Debug\net5.0\AppDomain.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\refint\AppDomain.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\AppDomain.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_2 Winform\AppDomain\obj\Debug\net5.0\ref\AppDomain.dll

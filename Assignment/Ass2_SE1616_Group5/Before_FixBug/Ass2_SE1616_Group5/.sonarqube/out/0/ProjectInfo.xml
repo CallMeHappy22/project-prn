@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Ass2_SE1616_Group5</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>d44873da-e992-4113-8a04-8d51602de9a2</ProjectGuid>
+  <FullPath>C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\Before_FixBug\Ass2_SE1616_Group5\Ass2_SE1616_Group5.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\Before_FixBug\Ass2_SE1616_Group5\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\Before_FixBug\Ass2_SE1616_Group5\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\thanh\Desktop\Project PRN\Assignment\Ass2_SE1616_Group5\Before_FixBug\Ass2_SE1616_Group5\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0-windows</TargetFramework>
+</ProjectInfo>

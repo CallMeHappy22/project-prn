@@ -1,0 +1,6 @@
+projectKey=Lab2_Code_After
+serverUrl=http://localhost:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://localhost:9000/dashboard?id=Lab2_Code_After
+ceTaskId=AYH6NRwzore7jZmGfhlH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYH6NRwzore7jZmGfhlH

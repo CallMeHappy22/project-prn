@@ -1,0 +1,63 @@
+﻿@model SE1616_Group5_Ass3.Models.Booking
+@inject IHttpContextAccessor HttpContextAccessor;
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Edit";
+    string seatstatus = @ViewBag.SeatStatus;
+    int id = (int)HttpContextAccessor.HttpContext.Session.GetInt32("id");
+}
+
+<h1>Details</h1>
+<div>
+    <h4>Booking</h4>
+    @for (var i = 0; i < 10; i++)
+    {
+        @for (var j = 0; j < 10; j++)
+        {
+            int check = 0;
+            int index = i * 10 + j;
+            @for(int k = 0; k < seatstatus.Length; k++)
+            {
+                @if (seatstatus[k].ToString().Equals("1") && k == index)
+                {
+                    check = 1;
+                }
+            }
+            @if (check == 0)
+            {
+                <input type="checkbox" name="@index" />
+            }
+            else
+
+            {
+                <input type="checkbox" name="@index" checked/>
+            }
+        }
+        <br />
+    }
+    <div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ShowId" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" value="@ViewBag.Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Amount" class="control-label"></label>
+                <input asp-for="Amount" value="@ViewBag.Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.BookingId">Edit</a> |
+    <a asp-action="Index" asp-route-id="@id">Back to List</a>
+</div>

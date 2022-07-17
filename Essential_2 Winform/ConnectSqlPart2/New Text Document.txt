@@ -1,0 +1,8 @@
+==============
+
+using System.Data.SqlClient
+
+
+
+SqlConnection conn = new SqlConnection("server=...;database=..;uid=...;pwd=...;);
+SqlCommand cmd = new SqlCommand("Select * from .....",conn);

@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\bin\Debug\net5.0\CS_Delegate.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\bin\Debug\net5.0\CS_Delegate.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\bin\Debug\net5.0\CS_Delegate.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\bin\Debug\net5.0\CS_Delegate.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\bin\Debug\net5.0\CS_Delegate.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\bin\Debug\net5.0\CS_Delegate.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\refint\CS_Delegate.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\CS_Delegate.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\CS_Delegate\obj\Debug\net5.0\ref\CS_Delegate.dll

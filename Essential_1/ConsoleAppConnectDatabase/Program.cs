@@ -18,7 +18,7 @@ namespace WinFormsApp1
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", true, true)
                 .Build();
-            var strConnection = config["ConnectionString:Cinema"];
+            var strConnection = config["ConnectionString:CinemaDB"];
             return strConnection;
         }//end GettConnectionString
 
@@ -45,7 +45,7 @@ namespace WinFormsApp1
             command.CommandText = "select * from Films";
             //Print out data with data reader.
             using DbDataReader dataReader = command.ExecuteReader();
-            Console.WriteLine("----------------Book List----------------");
+            Console.WriteLine("----------------Film List----------------");
             while (dataReader.Read())
             {
                 Console.WriteLine($"FilmID: {dataReader["FilmID"]} Tile: {dataReader["Title"]}");

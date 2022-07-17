@@ -1,0 +1,16 @@
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\bin\Debug\net5.0\DemoPracticec.exe
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\bin\Debug\net5.0\DemoPracticec.deps.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\bin\Debug\net5.0\DemoPracticec.runtimeconfig.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\bin\Debug\net5.0\DemoPracticec.runtimeconfig.dev.json
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\bin\Debug\net5.0\DemoPracticec.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\bin\Debug\net5.0\DemoPracticec.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.csproj.AssemblyReference.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.AssemblyInfoInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.AssemblyInfo.cs
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\refint\DemoPracticec.dll
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.pdb
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\DemoPracticec.genruntimeconfig.cache
+C:\Users\thanh\Desktop\Project PRN\Essential_1\DemoPracticec\obj\Debug\net5.0\ref\DemoPracticec.dll

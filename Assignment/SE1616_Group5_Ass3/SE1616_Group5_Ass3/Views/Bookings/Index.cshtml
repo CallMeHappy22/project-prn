@@ -1,0 +1,74 @@
+﻿@model IEnumerable<SE1616_Group5_Ass3.Models.Booking>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1>Index</h1>
+
+@for (var i = 0; i < 10; i++)
+{
+    @for (var j = 0; j < 10; j++)
+    {
+        int check = 0;
+        int index = i * 10 + j;
+        @foreach (var item in ViewBag.list)
+        {
+            @if (item == index)
+            {
+                check = 1;
+            }
+        }
+        @if (check == 1)
+        {
+            <input type="checkbox" disabled checked />
+        }
+        else
+        {
+            <input type="checkbox" disabled />
+        }
+    }
+    <br />
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SeatStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SeatStatus)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.BookingId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.BookingId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.BookingId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
