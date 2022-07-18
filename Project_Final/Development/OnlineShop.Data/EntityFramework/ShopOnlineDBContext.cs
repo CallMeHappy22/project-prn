@@ -21,6 +21,21 @@ namespace OnlineShop.Data.EntityFramework
             modelBuilder.ApplyConfiguration(new ProductConfiguration());
             modelBuilder.ApplyConfiguration(new CategoryConfiguration());
             modelBuilder.ApplyConfiguration(new ProductInCategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new OrderConfiguration());
+
+            modelBuilder.ApplyConfiguration(new OrderDetailConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryTranslationConfiguration());
+            modelBuilder.ApplyConfiguration(new ContactConfiguration());
+            modelBuilder.ApplyConfiguration(new LanguageConfiguration());
+            modelBuilder.ApplyConfiguration(new ProductTranslationConfiguration());
+            modelBuilder.ApplyConfiguration(new PromotionConfiguration());
+            modelBuilder.ApplyConfiguration(new TransactionConfiguration());
+
+            //modelBuilder.ApplyConfiguration(new AppUserConfiguration());
+            //modelBuilder.ApplyConfiguration(new AppRoleConfiguration());
+            //modelBuilder.ApplyConfiguration(new ProductImageConfiguration());
+            //modelBuilder.ApplyConfiguration(new SlideConfiguration());
+
             //  base.OnModelCreating(modelBuilder);
         }
         public DbSet<Product> Products { get; set; }
@@ -36,7 +51,7 @@ namespace OnlineShop.Data.EntityFramework
 
         public DbSet<Language> Languages { get; set; }
 
-        public DbSet<Order> Orders { get; set; }
+        public DbSet<Orders> Orders { get; set; }
 
         public DbSet<OrderDetail> OrderDetails { get; set; }
         public DbSet<ProductTranslation> ProductTranslations { get; set; }
