@@ -17,7 +17,9 @@ namespace OnlineShop.Data.Entities
         public int ViewCount { get; set; }
         public DateTime DataCreated { get; set; }   
         public int SaleAlias { get; set; }
+        public List<ProductInCategory> ProductInCategories { get; set; }
 
+        public List<OrderDetail> OrderDetails { get; set; }
     }
 }
 /*ConfigURE theo attribute
