@@ -1,0 +1,7 @@
+- Create new branch for GIT
+- Git flow: master --> develop --> feature/solution_folder --> create pull request --> develop 
+-->> bugfix/fix_eror_start -> crate pull request to develop
+- Solution structure:
+ +> N layer (Data, Business, Presentation)  - Data Driven Design
+ +> DDD (Domain driven design)
+-Web application --> Request pipeline
